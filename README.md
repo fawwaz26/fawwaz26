@@ -45,7 +45,7 @@
 <td width="50%">
 <h3 align="center">Portfolio Web</h3>
 <div align="center">
-<a href=""" target="_blank"><img src="https://user-images.githubusercontent.com/48622568/229273039-15a88117-eaa5-4e32-94ae-8d928afad3ec.png" width="400"></a>
+<a href="https://github.com/fawwaz26/My-Portfolio" target="_blank"><img src="https://user-images.githubusercontent.com/48622568/229273039-15a88117-eaa5-4e32-94ae-8d928afad3ec.png" width="400"></a>
 <p>
 <a href="https://github.com/fawwaz26/My-Portfolio" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -63,7 +63,7 @@
 <br>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/fawwaz26/ProjeKuy" target="_blank">
 <img src="https://img.shields.io/badge/CODE-28bdbd?style=for-the-badge&logo=github&logoColor=black"">
 </a>
 <a href="" target="_blank">
@@ -97,7 +97,7 @@
 <br>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/fawwaz26/MinjemIn" target="_blank">
 <img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black"">
 </a>
 <a href="" target="_blank">
